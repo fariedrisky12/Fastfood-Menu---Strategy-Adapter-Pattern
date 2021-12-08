@@ -9,6 +9,7 @@ private static DecimalFormat decimalFormatter = new DecimalFormat("#");
 
    public static void main(String[] args)
    {
+    //    initial main
     FriedChicken friedchicken = new FriedChicken();
     Burger burger = new Burger();
     FrenchFries frenchfries = new FrenchFries();
