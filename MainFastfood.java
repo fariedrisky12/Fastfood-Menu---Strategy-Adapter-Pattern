@@ -9,19 +9,17 @@ private static DecimalFormat decimalFormatter = new DecimalFormat("#");
 
    public static void main(String[] args)
    {
-    //    initial main
     FriedChicken friedchicken = new FriedChicken();
     Burger burger = new Burger();
     FrenchFries frenchfries = new FrenchFries();
     
+    // menu fastfood
     System.out.println("1. Fried Chicken");
     System.out.println("2. Burger");
     System.out.println("3. French Fries");
     System.out.print("Select the menu : ");
     scanner = new Scanner(System.in);
-    String choice = scanner.next();
-    //System.out.print("The menu you choose is : " + choice);
-    
+    String choice = scanner.next();  
 
     if("1".equalsIgnoreCase(choice)) 
     {
