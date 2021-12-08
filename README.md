@@ -25,3 +25,5 @@ Total Fried Chicken : 25
 25 Fried Chicken harganya adalah 125 dollar
 
 karena 25 Fried Chicken dikali dengan 5 dollar maka harganya 125 dollar.
+
+Untuk menjalankan program gunakan MainFastfood.java untuk run
