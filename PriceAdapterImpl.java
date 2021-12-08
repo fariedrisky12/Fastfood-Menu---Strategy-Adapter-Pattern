@@ -1,4 +1,3 @@
-
 public class PriceAdapterImpl implements PriceAdapter {
     private Price changesPrice;
 
